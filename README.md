@@ -1,4 +1,4 @@
-# Rust for Algorithm  
+# Rust for Algorithm (and Data Structures)  
 This repository is established for my practices on algorithm (and data structures) and Rust language.  
 This project might be going on step by step.  
 
